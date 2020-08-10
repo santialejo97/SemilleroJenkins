@@ -7,6 +7,12 @@
   <version>1.0-SNAPSHOT</version>
   <name>hello Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  
+  <properties>
+  <sonar.projectKey>carolinagzr_java-tomcat-maven-example</sonar.projectKey>
+  <sonar.organization>carolinagzr</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
