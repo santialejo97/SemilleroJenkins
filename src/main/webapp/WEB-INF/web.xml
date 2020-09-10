@@ -5,3 +5,6 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
+<servlet-mapping>
+<url-pattern>/servlet/*</url-pattern>
+</servlet-mapping>
