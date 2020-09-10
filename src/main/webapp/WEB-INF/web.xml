@@ -5,7 +5,3 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
-<servlet-mapping>
- <servlet-name>invoker</servlet-name>
-<url-pattern>/servlet/*</url-pattern>
-</servlet-mapping>
