@@ -1,5 +1,4 @@
 install:
-  - bundle install --path vendor/bundle
   - mvn install
 language: java
 script: "mvn clean"
